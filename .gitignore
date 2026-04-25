@@ -1,0 +1,69 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Generated tool hook data
+.github/java-upgrade/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment and local configuration
+.env
+.env.*
+*.local
+application-local.properties
+application-*.local.properties
+
+# Node / Vite frontend
+node_modules/
+frontend/node_modules/
+dist/
+dist-ssr/
+frontend/dist/
+frontend/dist-ssr/
+
+# Java / Maven backend
+target/
+backend/target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven wrapper and build metadata
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Test and coverage output
+coverage/
+frontend/coverage/
+surefire-reports/
+failsafe-reports/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
