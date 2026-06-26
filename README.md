@@ -78,3 +78,4 @@ mvn test
 ## More Documentation
 
 See `DEVELOPER_GUIDE.md` for deeper architecture notes, feature flows, debugging steps, and guidance for adding new modules.
+
